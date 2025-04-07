@@ -1,2 +1,2 @@
 # deploy-test
-test8
+deploy test8
